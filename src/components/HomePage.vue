@@ -103,7 +103,7 @@
     z-index: 1;
     margin-top: 3vw;
     border-radius: 10px;
-    border: 2px solid white;
+    border: 1px solid white;
     font-size: 1.5vw;
   }
   .image-moreInfo2 {
@@ -121,7 +121,7 @@
     z-index: 5;
     margin-top: 3vw;
     border-radius: 10px;
-    border: 2px solid white;
+    border: 1px solid white;
     font-size: 1.5vw;
   }
 
